@@ -31,7 +31,6 @@ namespace ParsingStrings
                 {
                     throw new ArgumentNullException(nameof(str));
                 }
-          
             }
             catch (FormatException)
             {
